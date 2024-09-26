@@ -3,6 +3,8 @@
 
 También hacen falta **negrita**, *cursiva*...
 
+_______________________________________________________________________
+
 Una lista:
 - Elemento
 - Elemento
@@ -14,3 +16,4 @@ Una imagen y un emoticono :+1:
 
 > [!WARNING]
 > ALERTA URGENTE
+
